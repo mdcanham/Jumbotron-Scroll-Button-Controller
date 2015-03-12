@@ -4,4 +4,4 @@ $(document).ready( function() {
 			scrollTop: $('#scroll-arrow-destination').offset().top 
 		}, 1000, "easeInOutCubic");
 	});
-};);
+});
