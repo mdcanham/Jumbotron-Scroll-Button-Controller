@@ -15,6 +15,6 @@ Finally add the following line of code to the head section of your HTML file(s),
 `<script src="link/to/scrollArrowController.js"></script>`
 
 ##Usage
-In order for the scroll funciton to work correctly you need to give the `#scroll-arrow` id to the element that you want to be used as the scrolling button.
+In order for the scroll funciton to work correctly you need to give the `scroll-arrow` id to the element that you want to be used as the scrolling button.
 
-Then you need to add the `#scroll-arrow-destination` id to the element that you want the page to scroll to. Note that the page will scroll so that the top of the element with the id "scroll-arrow-destination" will be aligned to the top of the browser window.
+Then you need to add the `scroll-arrow-destination` id to the element that you want the page to scroll to. Note that the page will scroll so that the top of the element with the id "scroll-arrow-destination" will be aligned to the top of the browser window.
